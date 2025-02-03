@@ -1,3 +1,10 @@
+"""
+Shaun Ratcliff
+2/2/25
+Module 3 Lab Classes
+
+"""
+
 # Define the Vehicle class
 class Vehicle:
     def __init__(self, vehicle_type):
